@@ -10,12 +10,14 @@ public class Practice_No1 {
 		
 		if (x>y)
 		{
-			System.out.println("Pass");
+			//System.out.println("Pass");
+			System.out.println("This is Pass");
 		}
 		
 		if (x<y)
 		{
-			System.out.println("fail");
+			//System.out.println("fail");
+			System.out.println("This is fail file");
 		}
 	}
 
