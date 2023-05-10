@@ -13,7 +13,8 @@ public class Paramertrized_method1 {
 		Paramertrized_method1 Ref1=new Paramertrized_method1();
 		
 		int X=Ref1.addition(20,30);
-		System.out.println(X);
+		//System.out.println(X);
+		System.out.println("Output is"+X);
 	}
 
 }
