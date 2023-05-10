@@ -29,7 +29,8 @@ public class Example_No1 {
 		}
 		else
 		{
-			System.out.println("Result Not Found");
+			//System.out.println("Result Not Found");
+			System.out.println("Result is Not Found ");
 		}
 	}
 
